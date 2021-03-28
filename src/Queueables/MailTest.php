@@ -6,7 +6,7 @@ use Exception;
 use Illuminate\Contracts\Mail\Factory as MailFactory;
 use Illuminate\Contracts\Queue\Factory as QueueFactory;
 use LastDragon_ru\LaraASP\Queue\Contracts\Initializable;
-use LastDragon_ru\LaraASP\Testing\Package\TestCase;
+use LastDragon_ru\LaraASP\Queue\Testing\Package\TestCase;
 use RuntimeException;
 
 use function sprintf;
